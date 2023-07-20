@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "steoates.autoimport",
+      "streetsidesoftware.code-spell-checker",
+      "mikestead.dotenv",
+      "dbaeumer.vscode-eslint",
+      "christian-kohler.npm-intellisense",
+      "christian-kohler.path-intellisense",
+      "visualstudioexptteam.vscodeintellicode",
+      "ms-playwright.playwright"
+    ]
+  }
