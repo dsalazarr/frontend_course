@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cf659064-cde0-4dd7-895a-65af8117aa5a",
+    "quantity": "1",
+    "coordinates": [1, 1],
+    "product": {
+      "id": "4e2f0e11-0a07-4b4e-9684-66ec89e6a3ed",
+      "name": "Fanta",
+      "quantity": 5,
+      "price": "2.00"
+    }
+  },
+  {
+    "id": "cf659064-cde0-4dd7-895a-65af8117aa5a",
+    "quantity": "1",
+    "coordinates": [1, 1],
+    "product": {
+      "id": "1781e6bc-3fa9-409b-bef9-b94a6b7645e3",
+      "name": "RedBull",
+      "quantity": 10,
+      "price": "4.50"
+    }
+  },
+  {
+    "id": "cf659064-cde0-4dd7-895a-65af8117aa5a",
+    "quantity": "1",
+    "coordinates": [1, 1],
+    "product": {
+      "id": "4582dd92-a44b-42ad-8369-a0066ca5de82",
+      "name": "Pringles",
+      "quantity": 9,
+      "price": "3.00"
+    }
+  },
+  {
+    "id": "cf659064-cde0-4dd7-895a-65af8117aa5a",
+    "quantity": "1",
+    "coordinates": [1, 1],
+    "product": {
+      "id": "a5b2da78-a297-4549-b0e1-26b6a507b2d7",
+      "name": "Water",
+      "quantity": 9,
+      "price": "1.00"
+    }
+  }
+]
